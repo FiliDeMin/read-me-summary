@@ -4,7 +4,7 @@ A collection of academic and personal projects spanning machine learning, statis
 
 ---
 
-## 🧠 Project Portfolio
+## Project Portfolio
 
 | Project | Description | Key Findings | Skills Demonstrated |
 |--------|-------------|-------------|---------------------|
