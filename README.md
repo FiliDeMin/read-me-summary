@@ -23,7 +23,7 @@ A collection of academic and personal projects spanning machine learning, statis
 
 - **Languages:** Python, R, VBA  
 - **Libraries & Frameworks:** XGBoost, PyTorch, Transformers (DeBERTa), scikit-learn  
-- **Data Sources:** Reddit, RateYourMusic (RYM), real estate datasets, financial factor data  
+- **Data Sources:** Reddit, RateYourMusic (RYM), financial factor data  
 - **Techniques:** Machine Learning, Bayesian Inference, NLP, Computer Vision, Network Analysis, Causal Inference  
 
 ---
