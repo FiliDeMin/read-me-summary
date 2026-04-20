@@ -29,7 +29,5 @@ A collection of academic and personal projects spanning machine learning, statis
 
 ## 📌 Notes
 
-- Replace each **"GitHub Repo"** link with the actual repository URL.
-- Projects reflect applied work in data science, combining theoretical rigor with real-world datasets.
 
 ---
