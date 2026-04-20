@@ -9,7 +9,6 @@ A collection of academic and personal projects spanning machine learning, statis
 | Project | Description | Key Findings | Skills Demonstrated |
 |--------|-------------|-------------|---------------------|
 | [GitHub Repo](#) | Developed frequentist and Bayesian Probit models to estimate heart disease risk using the SAheart dataset | LDL cholesterol increases CHD risk by ~3%; family history by ~15.5%, based on marginal effects | Fisher Scoring, Gibbs sampling, Bayesian inference, custom GLM implementation |
-| [GitHub Repo](#) | Predicted Milan housing prices using XGBoost on cleaned real estate listings | Achieved MSE of 0.181 on log-prices and MAE of €67k on real prices | Feature engineering, tree-based modeling, hyperparameter tuning |
 | [GitHub Repo](#) | Built a classifier to identify the stance of Reddit comments on the Israel-Palestine conflict | Fine-tuned DeBERTa for multi-class classification with high accuracy on annotated Reddit data | Transformer finetuning, multi-class NLP classification, conflict discourse analysis |
 | [GitHub Repo](#) | Analyzed 600k+ Reddit interactions on the Israel-Palestine conflict | Found that polarization decreased after the conflict onset, suggesting moderated forums may foster dialogue | Network analysis, topic modeling, transformer-based NLP |
 | [GitHub Repo](#) | Trained a model to predict the year and type of construction of buildings in the Lombardy region | Achieved a mean absolute error of 84 years; window structure emerged as a strong predictor | CNN finetuning, data scraping, computer vision |
